@@ -17,7 +17,7 @@ After creating the container, we need to start it:
 
 Type <code>lxc-info --name server_test</code> to see if the container running.
 
-<img>create_container</img>
+![alt text](https://github.com/vvoltarus/LXC_Containers/blob/main/pics/creating_container.png)
 
 Start a container shell:
 <code>lxc-attach --name server_test	</code>
@@ -36,6 +36,6 @@ Exit and login again and check autocomplete with TAB.
 
 To stop and destroy our container type:
 
-<code> lxc-stop --name server_test
+<code>lxc-stop --name server_test
        lxc-destroy --name server_test</code>
 	   
