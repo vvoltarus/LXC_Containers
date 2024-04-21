@@ -1,4 +1,4 @@
-###Linux Containers - LXC###
+### Linux Containers - LXC ###
 
 **Step 1 - Installation**
 First of all lets install the lxc.
